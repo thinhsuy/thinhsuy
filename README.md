@@ -6,9 +6,9 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
 
 ![Thinhsuy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinhsuy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/thinhsuy/HumanGestureDetectionGame_AI_ObjectDetection/">
+<a href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=HumanGestureDetectionGame_AI_ObjectDetection&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=HumanGestureDetection_ObjectDetection&theme=radical" />
 </a>
 
 <a href="https://github.com/thinhsuy/SpaceshipLanding_ReinforcementLearning_DeepQLearning/">
@@ -21,9 +21,9 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=ProManager_Android_App&theme=merko" />
 </a>
 
-<a href="https://github.com/thinhsuy/EconomicVisualize_Dash_App/">
+<a href="https://github.com/thinhsuy/InstrusionWarninig_HealthcarePerspective">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=EconomicVisualize_Dash_App&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=InstrusionWarninig_HealthcarePerspective&theme=dracula" />
 </a>
 
 <a href="https://github.com/thinhsuy/SieuTriTue_dotNet_App/">
@@ -31,19 +31,20 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=SieuTriTue_dotNet_App&theme=highcontrast" />
 </a>
 
-<a href="https://github.com/thinhsuy/ThinkSocialMedia_Android_App/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=ThinkSocialMedia_Android_App&theme=synthwave" />
-</a>
 
 <a href="https://github.com/thinhsuy/WarShip_TCP-IP_Game/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=WarShip_TCP-IP_Game&theme=onedark" />
 </a>
 
-<a href="https://github.com/thinhsuy/MapReduceAndMining_HDFS_ApacheSpark_BigData/">
+<a href="https://github.com/thinhsuy/MapReduceAndMining_HDFS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=MapReduceAndMining_HDFS_ApacheSpark_BigData&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=MapReduceAndMining_HDFS&theme=gruvbox" />
+</a>
+
+<a href="https://github.com/thinhsuy/ThinkSocialMedia_Android_App/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=ThinkSocialMedia_Android_App&theme=synthwave" />
 </a>
 
 <a href="https://github.com/thinhsuy/SoundCloud_Exploration_DataScience/">
