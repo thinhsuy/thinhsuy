@@ -1,11 +1,39 @@
-### WELCOME TO MY GITHUB
+# WELCOME TO MY GITHUB
 As a student at Ho Chi Minh National University, I'm quite proud of my current technical skills and artificial intelligence (AI) specialization aspect. Years from now, I fervently truly believe to obtain the master degree of this faculty and be able to employ AI in healthcare technologies.<br>
-## How to contact with me: 
 
-[FaceBook](https://www.facebook.com/ng.duy.thinh.0201/) - [Notion](https://famous-antique-470.notion.site/Computer-Science-9352447c180e4afcbcb487332ee59a1d) - [Website](https://thinhsuy.github.io/VisualPage_Web/#)
+# Let's contact with me:
 
-![Thinhsuy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinhsuy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<a href="https://www.facebook.com/profile.php?id=100091778170480">
+   <img src="https://img.shields.io/badge/Facebook-6499E9?logo=facebook&logoColor=white">
+</a>
+<span> - </span>
+<a href="https://www.linkedin.com/in/duy-thinh-nguyen-a30145266/">
+   <img src="https://img.shields.io/badge/Linkedin-12486B?logo=linkedin&logoColor=white">
+</a>
+<span> - </span>
+<a href="https://famous-antique-470.notion.site/Computer-Science-9352447c180e4afcbcb487332ee59a1d">
+   <img src="https://img.shields.io/badge/Notion-191717?logo=notion&logoColor=white">
+</a>
 
+
+
+
+<table width="100%", style="border: none;">
+ <tr>
+   <td width="50%">
+     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinhsuy&show_icons=true&theme=dracula&rank_icon=github"/>
+   </td>
+   
+   <td width="50%">
+    
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhsuy&langs_count=2"/>
+    
+   </td>
+ </tr>
+</table>
+
+
+# Expertised Projects
 
 
 <table width="100%">
@@ -21,9 +49,9 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
    
    <td width="50%">
 
-<a href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/" style="font-size: 10px; font-style: unset; color: white;">
-  Instead of using the mouse or keyboard buttons to control the games, vision-based interfaces for video games use gestures, to give the user a more natural interface, these interfaces must accommodate inadvertent movements and ongoing gestures.
-</a>
+<p href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/" style="font-size: 10px; font-style: unset; text-color: white;">
+  A project dealing with Object Detection to recognize human gestures and actions for remotely controling.
+</p>
 
    </td>
  </tr>
@@ -40,7 +68,6 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
    </td>
    
    <td width="50%">
-
 
 
    </td>
@@ -70,36 +97,12 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
  </tr>
 
 
-   <tr>
-   <td width="50%">
-
-<a href="https://github.com/thinhsuy/SieuTriTue_dotNet_App/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=SieuTriTue_dotNet_App&theme=highcontrast" />
-</a>
-
-   </td>
- </tr>
-
-
   <tr>
    <td width="50%">
 
 <a href="https://github.com/thinhsuy/MapReduceAndMining_HDFS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=MapReduceAndMining_HDFS&theme=gruvbox" />
-</a>
-
-   </td>
- </tr>
-
-
-  <tr>
-   <td width="50%">
-
-<a href="https://github.com/thinhsuy/ThinkSocialMedia_Android_App/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=ThinkSocialMedia_Android_App&theme=synthwave" />
 </a>
 
    </td>
