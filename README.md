@@ -10,16 +10,16 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
 
 <table width="100%">
  <tr>
-   <td width="70%">
+   <td width="50%">
 
 <a href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" style="width: 100%;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=HumanGestureDetection_ObjectDetection&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=HumanGestureDetection_ObjectDetection&theme=radical" />
 </a>
 
    </td>
    
-   <td width="30%">
+   <td width="50%">
 
 <a href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/" style="font-size: 10px; font-style: unset; color: white;">
   Instead of using the mouse or keyboard buttons to control the games, vision-based interfaces for video games use gestures, to give the user a more natural interface, these interfaces must accommodate inadvertent movements and ongoing gestures.
