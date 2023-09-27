@@ -14,7 +14,7 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
 
 <a href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=HumanGestureDetection_ObjectDetection&theme=radical" />
+  <img align="center" style="width: 100%;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=HumanGestureDetection_ObjectDetection&theme=radical" />
 </a>
 
    </td>
