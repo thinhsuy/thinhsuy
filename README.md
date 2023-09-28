@@ -1,5 +1,10 @@
 # WELCOME TO MY GITHUB
-As a student at Ho Chi Minh National University, I'm quite proud of my current technical skills and artificial intelligence (AI) specialization aspect. Years from now, I fervently truly believe to obtain the master degree of this faculty and be able to employ AI in healthcare technologies.<br>
+- Even specializing in Healthcare, I still willingly open in other domains that needs for a Data Scientist 
+- Acquired 6 months of Generative AI for Patient Care experience in the Healthcare Business Line.
+- Developing skills in data analysis, statistical modeling, machine learning algorithms and adhering to the Scrum process for project management and collaboration.
+- Developing proficiency in Natural Language Processing (NLP) techniques, aimed at enhancing patient care.
+- Actively engaging in research endeavors, including paper contributions and research publication.
+- Eager to gain 2-3 years more experience before pursuing a master's degree as my career path and aim to become a seasoned AI Engineer with substantial expertise.
 
 # Let's contact with me:
 
