@@ -50,7 +50,7 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
    <td width="50%">
 
 <p href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/" style="font-size: 10px; font-style: unset; text-color: white;">
-  A project dealing with Object Detection to recognize human gestures and actions for remotely controling.
+  <img height="100px" src="https://repository-images.githubusercontent.com/264818686/c9bae91d-ad2d-491c-876f-b6948f1a7c66">
 </p>
 
    </td>
