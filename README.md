@@ -40,95 +40,161 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
  <tr>
    <td width="50%">
 
-<a href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/">
+<a href="https://github.com/thinhsuy/Human-Gesture-Detection/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=HumanGestureDetection_ObjectDetection&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=Human-Gesture-Detection&theme=radical" />
 </a>
 
    </td>
    
    <td width="50%">
 
-<p href="https://github.com/thinhsuy/HumanGestureDetection_ObjectDetection/" style="font-size: 10px; font-style: unset; text-color: white;">
-  <img height="100px" src="https://repository-images.githubusercontent.com/264818686/c9bae91d-ad2d-491c-876f-b6948f1a7c66">
-</p>
-
-   </td>
- </tr>
-
-
-  <tr>
-   <td width="50%">
-
-<a href="https://github.com/thinhsuy/SpaceshipLanding_ReinforcementLearning_DeepQLearning/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=SpaceshipLanding_ReinforcementLearning_DeepQLearning&theme=merko" />
-</a>
-
-   </td>
-   
-   <td width="50%">
-
+<pre>
+ \ \ / / _ \| |  / _ \__ _| __|
+  \ V / (_) | |_| (_) \ V /__ \
+   |_| \___/|____\___/ \_/|___/
+                               
+</pre>
 
    </td>
  </tr>
  
+
+
+  <tr>
+   <td width="50%">
+<pre>
+  / _ \ ___| |___ __ _ _ _ _ _ (_)_ _  __ _ 
+ | (_) |___| / -_) _` | '_| ' \| | ' \/ _` |
+  \__\_\   |_\___\__,_|_| |_||_|_|_||_\__, |
+                                      |___/ 
+</pre>
+   </td>
+
+   <td width="50%">
+
+<a href="https://github.com/thinhsuy/Spaceship_AutoLander">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=Spaceship_AutoLander&theme=merko" />
+</a>
+
+   </td>
+ </tr>
+
+
+
  <tr>
    <td width="50%">
+
+<a href="https://github.com/thinhsuy/ProManager">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=ProManager&theme=merko" />
+</a>
+
+   </td>
    
-<a href="https://github.com/thinhsuy/ProManager_Android_App/">
+   <td width="50%">
+
+<pre>
+   /_\  _ _  __| |_ _ ___(_)__| |
+  / _ \| ' \/ _` | '_/ _ \ / _` |
+ /_/ \_\_||_\__,_|_| \___/_\__,_|                                               
+</pre>
+
+   </td>
+ </tr>
+ 
+
+ <tr>
+   <td width="50%">
+
+<pre>
+ | | | | | |_ _ _ __ _| |_  _| |_(_)__ ___
+ | |_| | |  _| '_/ _` | | || |  _| / _(_-<
+  \___/|_|\__|_| \__,_|_|\_, |\__|_\__/__/
+                         |__/             
+</pre>
+
+   </td>
+   
+   <td width="50%">
+
+<a href="https://github.com/thinhsuy/Intrusion_Warning_HC">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=ProManager_Android_App&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=Intrusion_Warning_HC&theme=dracula" />
 </a>
 
    </td>
  </tr>
 
 
+
   <tr>
    <td width="50%">
 
-<a href="https://github.com/thinhsuy/InstrusionWarninig_HealthcarePerspective">
+<a href="https://github.com/thinhsuy/MapReduce_Mining/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=InstrusionWarninig_HealthcarePerspective&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=MapReduce_Mining&theme=gruvbox" />
+</a>
+
+   </td>
+   
+   <td width="50%">
+
+<pre>
+ | || |__ _ __| |___  ___ _ __ 
+ | __ / _` / _` / _ \/ _ \ '_ \
+ |_||_\__,_\__,_\___/\___/ .__/
+                         |_|                  
+</pre>
+
+   </td>
+ </tr>
+
+
+
+  <tr>
+   <td width="50%">
+
+<pre>
+ |  \/  (_)_ _ (_)_ _  __ _ 
+ | |\/| | | ' \| | ' \/ _` |
+ |_|  |_|_|_||_|_|_||_\__, |
+                      |___/ 
+</pre>
+
+   </td>
+   
+   <td width="50%">
+
+<a href="https://github.com/thinhsuy/SoundCloud_Exploration/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=SoundCloud_Exploration&theme=dark" />
 </a>
 
    </td>
  </tr>
 
 
+
   <tr>
    <td width="50%">
 
-<a href="https://github.com/thinhsuy/MapReduceAndMining_HDFS/">
+<a href="https://github.com/thinhsuy/MortalKumbat2D">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=MapReduceAndMining_HDFS&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=MortalKumbat2D&theme=dracula" />
 </a>
 
    </td>
- </tr>
-
-
-  <tr>
+   
    <td width="50%">
 
-<a href="https://github.com/thinhsuy/SoundCloud_Exploration_DataScience/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=SoundCloud_Exploration_DataScience&theme=dark" />
-</a>
-
-   </td>
- </tr>
-
-
-  <tr>
-   <td width="50%">
-
-<a href="https://github.com/thinhsuy/MortalKumbat_PyGame2D_Game/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinhsuy&repo=MortalKumbat_PyGame2D_Game&theme=dracula" />
-</a>
-
+<pre>
+ | _ \_  _ / __|__ _ _ __  ___ 
+ |  _/ || | (_ / _` | '  \/ -_)
+ |_|  \_, |\___\__,_|_|_|_\___|
+      |__/                     
+</pre>
 
    </td>
  </tr>
