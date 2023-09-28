@@ -48,13 +48,14 @@ As a student at Ho Chi Minh National University, I'm quite proud of my current t
    </td>
    
    <td width="50%">
-
-<pre>
+<div style="text-align: center; width: 100%;">
+<pre width="100%">
  \ \ / / _ \| |  / _ \__ _| __|
   \ V / (_) | |_| (_) \ V /__ \
    |_| \___/|____\___/ \_/|___/
                                
 </pre>
+</div>
 
    </td>
  </tr>
