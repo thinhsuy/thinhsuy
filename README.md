@@ -1,3 +1,9 @@
+<header>
+<!--    <img width="100%" height="200px" object-fit="cover" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"> -->
+   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Image Description" style="width: 100vw; height: auto; object-fit: cover;">
+
+</header>
+
 # WELCOME TO MY GITHUB
 - Even specializing in Healthcare, I still willingly open in other domains that needs for a Data Scientist 
 - Acquired 6 months of Generative AI for Patient Care experience in the Healthcare Business Line.
