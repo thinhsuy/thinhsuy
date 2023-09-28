@@ -1,6 +1,6 @@
 <header>
 <!--    <img width="100%" height="200px" object-fit="cover" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"> -->
-   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Image Description" style="width: 100vw; height: auto; object-fit: cover;">
+   <img src="https://github.com/thinhsuy/thinhsuy/assets/81562297/eab80de7-aff2-4ae3-aaec-3a8db962cdb8" alt="Image Header" style="width: 100vw; height: auto; object-fit: cover;">
 
 </header>
 
